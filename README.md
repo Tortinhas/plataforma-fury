@@ -12,5 +12,3 @@ As principais funcionalidades da plataforma são:
 * Abstração da Infraestrutura;
 * Integração com IA;
 * Gerenciamento de recursos massivos.
-
-Apesar de ser uma plataforma interna do Mercado Livre, o Fury po
