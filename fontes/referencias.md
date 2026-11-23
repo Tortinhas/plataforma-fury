@@ -48,3 +48,56 @@ Mai. 2025 - Platform Engineering
 [Link](https://standards.ieee.org/ieee/828/5367/)
 
 2012 - IEEE
+
+---
+
+### 7. Building a large-scale Observability Ecosystem
+
+[Link](https://medium.com/mercadolibre-tech/building-a-large-scale-observability-ecosystem-1edf654b249e)
+
+Mercado Libre Tech (Juan Pi)
+
+---
+
+### 8. How Mercado Libre rebuilt its observability platform on ClickHouse Cloud with 75x faster trace queries
+
+[Link](https://clickhouse.com/ja/blog/mercado-libre-observability-on-clickhouse-cloud)
+
+Ago. 2026 - ClickHouse
+
+---
+
+### 9. Mercado Libre ensures 100% infrastructure uptime during Black Friday with Datadog observability at scale
+
+[Link](https://www.datadoghq.com/case-studies/mercado-libre)
+
+Datadog (estudo de caso)
+
+---
+
+### 10. Scaling Innovation with NoOps: How Mercado Libre Manages 30,000 Microservices and 25 million RPS
+
+[Link](https://qconsf.com/presentation/nov2024/scaling-innovation-noops-how-mercado-libre-manages-30000-microservices-and-25)
+
+Nov. 2024 - QCon San Francisco (Juliano Martins & Marcelo Quadros)
+
+---
+
+### 11. The surprising economics of Horizontal Pod Autoscaling tuning
+
+[Link](https://cloud.google.com/blog/products/containers-kubernetes/tuning-the-kubernetes-hpa-in-gke)
+
+Google Cloud
+
+---
+
+### 12. Compute scaling in Azure Fluid Relay
+
+[Link](https://devblogs.microsoft.com/microsoft365dev/compute-scaling-in-azure-fluid-relay/)
+
+Microsoft 365 Developer Blog
+
+---
+[Link](https://devblogs.microsoft.com/microsoft365dev/compute-scaling-in-azure-fluid-relay/)
+
+Microsoft 365 Developer Blog
