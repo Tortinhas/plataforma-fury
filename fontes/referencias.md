@@ -98,3 +98,43 @@ Google Cloud
 Microsoft 365 Developer Blog
 
 ---
+
+### 13. Safe but flexible: the DevEx-based code management culture at Mercado Libre
+
+[Link](https://medium.com/mercadolibre-tech/safe-but-flexible-the-devex-based-code-management-culture-at-mercado-libre-9b1dfde6f1b6)
+
+Abr. 2024 - Mercado Libre Tech (Javi Cardoso)
+
+---
+
+### 14. Scaling from 2K Engineers to 12K Engineers and 10K Deploys/Day
+
+[Link](https://qconsf.com/presentation/oct2022/scaling-2k-engineers-12k-engineers-and-10k-deploys-day)
+
+Out. 2022 - QCon San Francisco (resumo da palestra)
+
+---
+
+### 15. Unveiling the secrets of a successful journey: Mercado Libre's internal developer platform
+
+[Link](https://platformengineering.org/blog/unveiling-the-secrets-of-a-successful-journey-mercado-libres-internal-developer-platform)
+
+Platform Engineering (blog)
+
+---
+
+### 16. GitHub Copilot Deployment at Scale: Enhancing Developer Productivity
+
+[Link](https://www.zenml.io/llmops-database/github-copilot-deployment-at-scale-enhancing-developer-productivity)
+
+ZenML (LLMOps Database) - fonte secundária, resume um caso do Mercado Livre com GitHub Advanced Security
+
+---
+
+### 17. Vídeo da palestra "Scaling from 2K engineers to 12K engineers and 10K deploys per day"
+
+[YouTube](https://youtu.be/FNZFKelH530)
+
+Platform Engineering - vídeo da palestra do item 2 (inclui o caso do Log4j)
+
+---
