@@ -98,6 +98,3 @@ Google Cloud
 Microsoft 365 Developer Blog
 
 ---
-[Link](https://devblogs.microsoft.com/microsoft365dev/compute-scaling-in-azure-fluid-relay/)
-
-Microsoft 365 Developer Blog
