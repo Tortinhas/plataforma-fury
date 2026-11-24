@@ -1,0 +1,19 @@
+application:
+  name: meli-shipping-calculator
+  team: logistics-core
+  tier: critical
+
+runtime:
+  language: nodejs
+  version: "20"
+
+resources:
+  cpu: "500m"
+  memory: "512Mi"
+  replicas:
+    min: 2
+    max: 10
+
+healthcheck:
+  path: /health
+  port: 8080
