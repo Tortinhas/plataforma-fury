@@ -1,10 +1,4 @@
-# Sugestão de slides: Governança, Segurança e Gestão de Vulnerabilidades no Fury
-
-## Slide 1: Por que governança e segurança?
-
-**Título:** Mais microsserviços, menos visibilidade
-
-**Conteúdo:**
+## Slide 1: Mais microsserviços, menos visibilidade
 
 - Monolito dividido em **mais de 26 mil microsserviços** [13]
 - Difícil saber se cada time segue boas práticas e aplica atualizações [2]
@@ -19,11 +13,7 @@
 
 ---
 
-## Slide 2: Como o Fury resolve
-
-**Título:** Governança embutida no fluxo de desenvolvimento
-
-**Conteúdo (3 colunas ou 3 blocos):**
+## Slide 2: Governança embutida no fluxo de desenvolvimento
 
 1. **Acesso ao código** [13]
    - Permissões por times
@@ -36,16 +26,13 @@
    - A plataforma sugere ou aplica correções de falhas críticas
    - Auditoria, rollback e mudanças de segurança centralizados no deploy
 
-**Sugestão visual:** um diagrama simples, da esquerda para a direita:
-`Acesso ao código → Pull request + verificações → Branch estável → Deploy → Correção de vulnerabilidades`
+> Um diagrama simples, da esquerda para a direita: `Acesso ao código → Pull request + verificações → Branch estável → Deploy → Correção de vulnerabilidades`
 
 **Rodapé:** Fontes: [2], [13], [14]
 
 ---
 
-## Slide 3: Relação com Gerência de Configuração
-
-**Título:** Fury na prática da GC
+## Slide 3: Fury na prática da GC
 
 | Conceito de GC                    | No Fury                                    |
 | --------------------------------- | ------------------------------------------ |
@@ -60,12 +47,7 @@
 
 **Rodapé:** Fontes: [2], [13], [14]. Conceitos de GC: ajustar aos termos da disciplina (e, se o grupo confirmar, [6] IEEE 828).
 
----
-
-## Opção reduzida (se o grupo só tiver espaço para 1 ou 2 slides)
-
-- **1 slide:** usar o Slide 2 com uma faixa no topo com os 3 objetivos do Fury e, embaixo, uma linha com os conceitos de GC (controle de mudanças, baseline, auditoria, retorno à baseline).
-- **2 slides:** juntar os Slides 1 e 2 (problema + 3 pilares) e manter o Slide 3 (tabela de GC).
+> Diagrama relacionando os conceitos com o que está presente na plataforma, com a frase em destaque na parte inferior do slide
 
 ---
 

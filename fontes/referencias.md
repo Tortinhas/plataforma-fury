@@ -138,3 +138,13 @@ ZenML (LLMOps Database) - fonte secundária, resume um caso do Mercado Livre com
 Platform Engineering - vídeo da palestra do item 2 (inclui o caso do Log4j)
 
 ---
+
+### 18. Vídeo "Plataforma Fury no Mercado Livre, Full Cycle"
+
+[Youtube](https://www.youtube.com/watch?v=jhSoFPONQ5s) em 24/08/2020
+
+---
+
+### 19. Vídeo "Conheça a IDP do Mercado Livre - Platform Talks, Plataform Rocks"
+
+[YouTube](https://www.youtube.com/watch?v=aFJTxKak6sM) em 05/05/2025. Trecho: 27:14 - 32:35
